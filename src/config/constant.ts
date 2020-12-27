@@ -1,0 +1,1 @@
+export const BRAND: string = 'TuYa' // 目前只支持TuYa
