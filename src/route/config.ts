@@ -11,7 +11,7 @@ export default {
         screen: Index,
         navigationOptions: {
             header: null,
-            title: '护发多少',
+            title: 'waterCulture',
             headerStyle: {
                 backgroundColor: '#f4511e',
               },
